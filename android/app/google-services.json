@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335810982085",
+    "project_id": "go-drive-a38e5",
+    "storage_bucket": "go-drive-a38e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335810982085:android:f7132b11cac704572540ac",
+        "android_client_info": {
+          "package_name": "com.example.godrive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtbvgd9xefITVur5aFDEVZl6gS5bImRhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
